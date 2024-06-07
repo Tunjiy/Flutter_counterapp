@@ -1,6 +1,6 @@
 # counter_app
 
-A new Flutter project created with FlutLab - https://flutlab.io
+A counter_app Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
 
